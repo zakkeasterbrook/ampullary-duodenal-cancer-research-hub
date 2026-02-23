@@ -11,5 +11,7 @@ Submit yours via docs/community/templates/story.md or the Human Story issue form
 - **Biggest lesson:** call at bilirubin 2.0 instead of waiting—metal stent swap was painless.
 - **Mindset:** Saturday night “game show” with mom during chemo pump kept morale up.
 
+_Read the original file at `docs/community/stories/2025-hope-story.md` to reuse this template._
+
 ---
 
