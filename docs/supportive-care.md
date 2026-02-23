@@ -12,8 +12,20 @@ Comprehensive supportive care combines palliative medicine, evidence-informed in
 
 ### 2. Nutrition & metabolism
 - **Pancreatic enzyme replacement**: weight-based dosing (500–1000 lipase units/kg/meal). Use acid suppression if steatorrhea persists.
-- **High-calorie snacks**: 250–300 kcal shakes with MCT oil, Greek yogurt, nut butter; track intake via app (Cara Care, MyFitnessPal).
-- **Glycemic swings**: coordinate with endocrinology when on steroids or if partial pancreatectomy occurred. Continuous glucose monitoring benefits frail patients.
+- **After stent/bypass:** small, frequent meals (5–6/day) with 15–20 g protein + healthy fat in each; avoid huge portions that stress the new plumbing.
+- **Hydration goal:** 30 mL/kg/day; use electrolyte packets on chemo days.
+- **High-calorie snacks:** 250–300 kcal shakes with MCT oil, Greek yogurt, nut butter; track intake via app (Cara Care, MyFitnessPal).
+- **Glycemic swings:** coordinate with endocrinology when on steroids or if partial pancreatectomy occurred. Continuous glucose monitoring benefits frail patients.
+
+#### Sample day of eating (post-stent/bypass)
+- **Breakfast:** scrambled eggs with spinach + 2 enzyme caps, slice of toast with nut butter, warm tea.
+- **Snack:** Greek yogurt mixed with MCT oil and berries.
+- **Lunch:** soft baked fish, mashed sweet potatoes, steamed carrots.
+- **Snack:** high-calorie shake (Ensure/Boost + banana + spoon of olive oil).
+- **Dinner:** shredded chicken soup with rice noodles, avocado slices, enzyme caps.
+- **Bedtime:** cottage cheese or protein pudding to prevent overnight weight loss.
+
+Tips: sit upright 30 minutes after meals, walk short laps to aid digestion, and keep anti-nausea meds handy to maintain intake.
 
 ### 3. Functional status & rehab
 - **Physical therapy**: focus on gait stability, seated strength work, and inspiratory muscle training to protect against deconditioning.
