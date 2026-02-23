@@ -16,6 +16,22 @@
 | “How do we personalize enzyme dosing?” | `Create a table matching stool description to pancreatic enzyme units for ampullary cancer patients.` | Share output in Community Hub for caregiver testing. |
 | “What wearable data predicts cholangitis?” | `List biomarkers + wearable metrics (temp, HRV) linked to biliary infections in GI cancer patients.` | Pilot logging in community spreadsheets. |
 
+### Prompt library (copy + paste into ChatGPT/Copilot/Bard)
+
+```
+You are an evidence-focused oncology researcher. Given ampullary cancer with KRAS G12V and liver mets, list combination strategies that mix standard chemo with metabolic modifiers (metformin, DCA, fasting-mimicking). Rank ideas by existing human data, note required labs, and caution flags.
+```
+
+```
+For a caregiver managing external biliary drains, generate a troubleshooting decision tree. Inputs: bile color, output volume change, skin infection signs, bilirubin lab trend. Outputs: when to flush at home, when to call IR, when to go to ER.
+```
+
+```
+Build a table comparing anecdotal alternative protocols (ivermectin, fenbendazole, high-dose vitamin C, mistletoe) against known mechanisms in ampullary/duodenal cancer. Include evidence level, potential interactions with FOLFIRINOX, and monitoring labs.
+```
+
+Add your favorite prompts to the Community Hub so others can iterate.
+
 ## 3. Emerging targets & trials
 
 - **KRAS G12C**: adagrasib + EGFR inhibitor combos (KRYSTAL-10). Monitor for diarrhea & EGFR rash.

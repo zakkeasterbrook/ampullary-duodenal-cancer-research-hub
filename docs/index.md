@@ -60,6 +60,7 @@ Think of the ampulla as the “power junction” where the liver’s bile duct a
 - Tumor blocks bile flow → bilirubin climbs → infection risk. Stents/drains are like emergency bypass pipes.
 - Cancer cells hitch rides in lymph/blood → liver/peritoneum. Imaging (CT/MRI) maps spread; biomarkers predict fuel sources.
 - Without drains, chemo can’t start. Keep stents flushed, schedule exchanges every 6–8 weeks, and track skin color/itch to catch clogs.
+- Want the molecular wiring? Dive into the [Deep Science Map](deep-science.md).
 
 ## Pain & symptom survival kit
 
