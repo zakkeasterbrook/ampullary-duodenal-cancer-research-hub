@@ -1,8 +1,40 @@
 # Ampullary & Duodenal Cancer Research Hub
 
-**Mission:** deliver evidence-ranked intelligence on metastatic duodenal adenocarcinoma, pancreatobiliary-type ampullary carcinoma, liver metastases, and biliary obstruction care with a 79-year-old female lens—yet adaptable to any patient-care team.
+<div class="hero">
+  <p class="eyebrow">Powered by Zakk Easterbrook + community</p>
+  <h1>Turn scattered cancer intel into life-saving playbooks.</h1>
+  <p>Plain-language breakdowns, evidence ranks, and community tactics for ampullary and duodenal cancers—from first 72 hours to clinical trials.</p>
+  <div class="hero__actions">
+    <a class="md-button" href="start-here/">Start Here (Families)</a>
+    <a class="md-button md-button--secondary" href="contributing.md">Contribute research</a>
+    <a class="md-button md-button--secondary" href="community/">Share a story</a>
+  </div>
+  <div class="hero__grid">
+    <div class="hero-card">
+      <h3>For families</h3>
+      <p>Analogies, checklists, drain care tips, and emergency scripts.</p>
+    </div>
+    <div class="hero-card">
+      <h3>For clinicians</h3>
+      <p>Subtype genomics, biomarker cheats, and evidence levels at a glance.</p>
+    </div>
+    <div class="hero-card">
+      <h3>For contributors</h3>
+      <p>Templates + automation playbooks so humans and agents can submit fast.</p>
+    </div>
+  </div>
+</div>
 
 > **Evidence strength:** Guideline • [NCI PDQ: Ampullary Cancer Treatment (2024)](https://www.cancer.gov/types/ampullary/hp/ampullary-treatment-pdq)
+
+<div class="nav-helper">
+  <strong>Navigation 101</strong>
+  <ul>
+    <li><b>Desktop:</b> use the tabs across the top or the right-hand mini table of contents.</li>
+    <li><b>Mobile:</b> tap the ☰ menu in the upper-left for all sections, and the chevron at the bottom for in-page headings.</li>
+    <li><b>Search:</b> tap the magnifying glass (or press <code>/</code>) to jump anywhere instantly.</li>
+  </ul>
+</div>
 
 ## How to use this hub
 
@@ -14,15 +46,9 @@
 
 ## Contribute & collaborate
 
-- Read the [Contributing Guide](../CONTRIBUTING.md) for citation rules and templates.
+- Read the [Contributing Guide](contributing.md) for citation rules and templates.
 - Drop caregiver stories or research using the [Community Hub](community/README.md) templates.
 - Automation agents (OpenClaw, etc.) follow the [Agent Playbook](AGENT_PLAYBOOK.md) for fast, safe updates.
-
-## Navigation tips (desktop & mobile)
-
-1. **Top tabs = major sections.** Use the horizontal tabs for Home, Start Here, Clinician Mode, etc. On phones, tap the hamburger menu (☰) in the top-left to reveal the same tree.
-2. **Section sidebar = quick jumps.** Once inside a page, the right-hand sidebar (or bottom dropdown on mobile) lets you jump between headings.
-3. **Search (press `/`).** The search bar (magnifying glass) finds keywords across the whole site, including anecdotes.
 
 ## What "evidence-ranked" means
 

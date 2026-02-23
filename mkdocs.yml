@@ -22,6 +22,10 @@ nav:
   - Glossary: glossary.md
   - "Sources & Methodology": methodology.md
   - "Disclaimer & Privacy": disclaimer.md
+  - Contribute:
+      - "How to Contribute": contributing.md
+      - "Community Hub": community/README.md
+      - "Agent Playbook": AGENT_PLAYBOOK.md
 theme:
   name: material
   language: en
@@ -29,6 +33,8 @@ theme:
     - navigation.tabs
     - navigation.sections
     - navigation.instant
+    - navigation.top
+    - navigation.footer
     - search.share
     - content.code.annotate
     - toc.follow
@@ -42,6 +48,8 @@ theme:
   font:
     text: "Source Sans Pro"
     code: "IBM Plex Mono"
+extra_css:
+  - assets/styles/custom.css
 markdown_extensions:
   - admonition
   - attr_list
