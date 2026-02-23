@@ -1,0 +1,32 @@
+name: Build Community Stories
+
+on:
+  push:
+    branches: [ main ]
+    paths:
+      - 'docs/community/stories/**.md'
+      - 'scripts/collect-stories.js'
+      - '.github/workflows/stories.yml'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18'
+      - name: Install deps
+        run: npm install
+      - name: Generate stories index
+        run: npm run build:stories
+      - name: Commit result
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add docs/community/stories.md
+          git commit -m "chore: update community stories" || echo "No changes"
+      - name: Push changes
+        run: git push
