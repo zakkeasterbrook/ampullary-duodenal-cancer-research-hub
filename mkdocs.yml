@@ -5,6 +5,7 @@ repo_url: https://github.com/zakkeasterbrook/ampullary-duodenal-cancer-research-
 repo_name: zakkeasterbrook/ampullary-duodenal-cancer-research-hub
 nav:
   - Home: index.md
+  - "Cancer 101": ampullary-101.md
   - "Start Here (Families)": start-here.md
   - "Clinician Mode": clinician-mode.md
   - "Deep Science Map": deep-science.md

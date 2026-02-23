@@ -5,8 +5,8 @@
   <h1>Turn scattered cancer intel into life-saving playbooks.</h1>
   <p>Plain-language breakdowns, evidence ranks, and community tactics for ampullary and duodenal cancers—from first 72 hours to clinical trials.</p>
   <div class="hero__actions">
-    <a class="md-button" href="start-here/">Start Here (Families)</a>
-    <a class="md-button md-button--secondary" href="contributing.md">Contribute research</a>
+    <a class="md-button" href="ampullary-101/">What is this cancer?</a>
+    <a class="md-button md-button--secondary" href="start-here/">72-hour checklist</a>
     <a class="md-button md-button--secondary" href="community/">Share a story</a>
     <a class="md-button md-button--secondary" href="share-data/">Share clinic notes safely</a>
   </div>
