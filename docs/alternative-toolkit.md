@@ -21,6 +21,8 @@ Each section includes:
 - **Risks & interactions**
 - **Where people discuss it**
 
+> Need deeper trial databases, FDA links, or aspirin/metformin summaries? Visit the [Repurposed Intelligence Hub](repurposed-database.md).
+
 ---
 
 ## Ivermectin

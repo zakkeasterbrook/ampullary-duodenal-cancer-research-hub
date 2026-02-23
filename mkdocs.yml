@@ -36,6 +36,7 @@ nav:
       - "Community Hub": community/README.md
       - "Agent Playbook": AGENT_PLAYBOOK.md
   - "Alternative Toolkit": alternative-toolkit.md
+  - "Repurposed Intelligence": repurposed-database.md
   - "Community Links": community-links.md
 theme:
   name: material

@@ -159,6 +159,7 @@ Think of the ampulla as the “power junction” where the liver’s bile duct a
   <ul>
     <li><a href="future-frontiers/">Future Frontiers</a> – AI prompts, metabolic combos, and microbiome ideas to ask your team about.</li>
     <li><a href="alternative-toolkit/">Alternative Toolkit</a> – ivermectin, fenbendazole, high-dose vitamin C, mistletoe, HBOT (with evidence labels).</li>
+    <li><a href="repurposed-database/">Repurposed Intelligence Hub</a> – master databases (ReDO), aspirin/metformin/ivermectin trials, and FDA safety links.</li>
     <li><a href="community-links/">Community Links</a> – direct access to Reddit, Inspire, Smart Patients, and Facebook groups.</li>
     <li><a href="clinical-trials/">Clinical Trials</a> – filters + outreach scripts for KRAS G12C, PARP, CLDN18.2, and more.</li>
   </ul>
