@@ -2,27 +2,13 @@
 
 <div class="hero">
   <p class="eyebrow">Powered by Zakk Easterbrook + community</p>
-  <h1>Turn scattered cancer intel into life-saving playbooks.</h1>
-  <p>Plain-language breakdowns, evidence ranks, and community tactics for ampullary and duodenal cancers—from first 72 hours to clinical trials.</p>
+  <h1>If you just heard “ampullary or duodenal cancer,” start here.</h1>
+  <p>We guide you step-by-step: understand the diagnosis, stabilize symptoms, pick treatments, and tap community wisdom.</p>
   <div class="hero__actions">
-    <a class="md-button" href="ampullary-101/">What is this cancer?</a>
-    <a class="md-button md-button--secondary" href="start-here/">72-hour checklist</a>
-    <a class="md-button md-button--secondary" href="community/">Share a story</a>
-    <a class="md-button md-button--secondary" href="share-data/">Share clinic notes safely</a>
-  </div>
-  <div class="hero__grid">
-    <div class="hero-card">
-      <h3>For families</h3>
-      <p>Analogies, checklists, drain care tips, and emergency scripts.</p>
-    </div>
-    <div class="hero-card">
-      <h3>For clinicians</h3>
-      <p>Subtype genomics, biomarker cheats, and evidence levels at a glance.</p>
-    </div>
-    <div class="hero-card">
-      <h3>For contributors</h3>
-      <p>Templates + automation playbooks so humans and agents can submit fast.</p>
-    </div>
+    <a class="md-button" href="ampullary-101/">1. What is this cancer?</a>
+    <a class="md-button md-button--secondary" href="start-here/">2. First 72 hours</a>
+    <a class="md-button md-button--secondary" href="symptom-dashboard/">3. Symptom dashboard</a>
+    <a class="md-button md-button--secondary" href="caregiver-hq/">4. Caregiver HQ</a>
   </div>
 </div>
 
@@ -40,26 +26,26 @@
 
 ## What is ampullary/duodenal cancer?
 
-Think of the ampulla as the “power junction” where the liver’s bile duct and the pancreas’s enzyme duct plug into the first part of the small intestine (duodenum). When cells there mutate:
-- **Pancreatobiliary-type** tumors act like pancreatic cancer—fast-growing “grease fires” that need aggressive chemo.
+Think of the ampulla as the “power junction” where the liver’s bile duct and the pancreas’s enzyme duct plug into the first part of the small intestine. When cells there mutate:
+- **Pancreatobiliary-type** tumors act like pancreatic cancer—fast-growing “grease fires” needing aggressive chemo.
 - **Intestinal-type** tumors behave more like colon cancer—slower “brush fires” that often respond to 5-FU/oxaliplatin.
-- Once cancer slips into the bloodstream or lymph (liver mets, peritoneal spread), it becomes stage IV and systemic therapy is the main weapon.
+- Once cells slip into blood or lymph, they ride straight to the liver; systemic therapy becomes the main weapon.
 
-**Analogy:** Picture the biliary tree as a plumbing system. The tumor is either tree roots clogging the drain (causing jaundice) or a frayed electrical junction shorting the circuit (malabsorption, pain). Treatment first stabilizes the plumbing/electric, then attacks the root problem.
+**Analogy:** Bile ducts = plumbing, pancreas = electrical wiring. Tumors clog pipes and short circuits. Step one: reopen flow. Step two: change the wiring (chemo/targeted therapy).
 
 ## Quick answers (3-minute read)
 
-- **Top symptoms to act on:** fever with chills, rising bilirubin/itch, new confusion, uncontrolled pain. ER for cholangitis, drain clogs, sudden weakness.
+- **Emergency triggers:** fever ≥100.4°F, chills/rigors, new confusion, no drain output, crushing pain.
 - **Pain scale reality check:** 0–3 = Tylenol/heat packs; 4–6 = add opioids + nerve blocks; 7–10 = ER or urgent palliative consult.
-- **Chemo at a glance:** FOLFIRINOX = strongest shrinkage; Gem/Cis(+Durva) = workhorse; CAPOX/FOLFOX = maintenance; capecitabine = gentle “keep moving” pill.
-- **Home care wins:** drain flush routine, enzymes before food, hydration 30 mL/kg/day, bowel log.
-- **Mindset:** every small stability (labs, appetite, sleep) buys time. Celebrate wins weekly.
+- **Chemo decoder:** FOLFIRINOX = strongest shrinkage; Gem/Cis(+Durva) = workhorse; CAPOX/FOLFOX = maintenance; capecitabine = gentle “keep moving” pill.
+- **Daily wins:** flush drains, take enzymes with every bite, hydrate 30 mL/kg/day, log stools/pain.
+- **Mindset:** every stable lab, night of rest, or laugh is progress. Celebrate weekly.
 
 ## How it spreads & why drains matter
 
-- Tumor blocks bile flow → bilirubin climbs → infection risk. Stents/drains are like emergency bypass pipes.
-- Cancer cells hitch rides in lymph/blood → liver/peritoneum. Imaging (CT/MRI) maps spread; biomarkers predict fuel sources.
-- Without drains, chemo can’t start. Keep stents flushed, schedule exchanges every 6–8 weeks, and track skin color/itch to catch clogs.
+- Tumor blocks bile → bilirubin spikes → infection risk. Stents/drains act like bypass pipes.
+- Cancer cells hitch rides in blood/lymph straight to the liver. Imaging and biomarkers forecast behavior.
+- No flow = no chemo. Flush stents, schedule exchanges, and watch skin/urine for warning signs.
 - Want the molecular wiring? Dive into the [Deep Science Map](deep-science.md).
 
 ## Pain & symptom survival kit
@@ -90,8 +76,8 @@ Think of the ampulla as the “power junction” where the liver’s bile duct a
 
 ## Surgery, bypass, and drains
 
-- Use [Surgery & Bypass](treatments/surgery-bypass.md) to see who qualifies for Whipple, when bypass is better, and how drains/stents stay happy.
-- Visuals + checklists explain gastrojejunostomy, hepaticojejunostomy, and pain procedures so families know what to expect.
+- Read [Surgery & Bypass](treatments/surgery-bypass.md) for Whipple vs bypass decisions, drain expectations, and pain procedures.
+- Use it alongside the Symptom Dashboard so every drain/stent question has a home.
 
 ## Beyond chemo: targeted, immuno, alternatives
 
@@ -108,6 +94,7 @@ Think of the ampulla as the “power junction” where the liver’s bile duct a
 ## Idea Lab & future cures
 
 - Explore emerging combos, AI prompts, and home experiments in [Future Frontiers](future-frontiers.md).
+- Visit [Alternative Toolkit](alternative-toolkit.md) for ivermectin/fenben/vitamin C research trails (with caution banners).
 - Submit anonymized clinic-note digests via [Share Data Safely](share-data.md).
 - Request collaborators by opening a “New Topic” issue tagged **Idea Lab**.
 
