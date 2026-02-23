@@ -1,0 +1,66 @@
+site_name: "Ampullary & Duodenal Cancer Research Hub"
+site_description: "Evidence-ranked resource on metastatic duodenal adenocarcinoma, ampullary carcinoma, liver metastases, and supportive care"
+site_url: https://zakkeasterbrook.github.io/ampullary-duodenal-cancer-research-hub/
+repo_url: https://github.com/zakkeasterbrook/ampullary-duodenal-cancer-research-hub
+repo_name: zakkeasterbrook/ampullary-duodenal-cancer-research-hub
+nav:
+  - Home: index.md
+  - "Start Here (Families)": start-here.md
+  - "Clinician Mode": clinician-mode.md
+  - "Diagnosis & Subtypes": diagnosis.md
+  - "Staging & Prognosis": staging.md
+  - Treatments:
+      - "Chemotherapy Regimens": treatments/chemo.md
+      - "Targeted & Immunotherapy": treatments/targeted-immunotherapy.md
+      - "Radiation & Procedures": treatments/radiation-procedures.md
+  - "Biomarkers & Testing": biomarkers.md
+  - "Clinical Trials": clinical-trials.md
+  - "Real-World Experiences": real-world.md
+  - "Integrative & Supportive Care": supportive-care.md
+  - "Practical Playbook": practical-playbook.md
+  - "Video Library": video-library.md
+  - Glossary: glossary.md
+  - "Sources & Methodology": methodology.md
+  - "Disclaimer & Privacy": disclaimer.md
+theme:
+  name: material
+  language: en
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.instant
+    - search.share
+    - content.code.annotate
+    - toc.follow
+  palette:
+    - scheme: default
+      primary: teal
+      accent: amber
+    - scheme: slate
+      primary: teal
+      accent: amber
+  font:
+    text: "Source Sans Pro"
+    code: "IBM Plex Mono"
+markdown_extensions:
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - md_in_html
+  - pymdownx.details
+  - pymdownx.emoji
+  - pymdownx.highlight
+  - pymdownx.inlinehilite
+  - pymdownx.superfences
+  - pymdownx.tabbed
+  - toc:
+      permalink: true
+plugins:
+  - search
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/zakkeasterbrook
+    - icon: fontawesome/solid/envelope
+      link: mailto:info@example.com
