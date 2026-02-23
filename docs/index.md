@@ -54,6 +54,13 @@
 - **Neuropathy guard:** frozen peas on hands during oxaliplatin, slip-on shoes, PT referral at first tingle.
 - **Mood & sleep:** 10-minute gratitude voice note, melatonin 3 mg, ask for low-dose mirtazapine if appetite/sleep both crash.
 
+## At-home survival toolkit
+
+- **Hydration & nutrition:** aim for 30 mL/kg/day fluids; pair every infusion with enzyme capsules + 15g protein snack. See [Integrative & Supportive Care](supportive-care.md).
+- **Week-by-week planner:** use the [Practical Playbook](practical-playbook.md) for checklists (labs, drain swaps, rest days).
+- **Pain ladder magnet:** print the pain scale + ER triggers from [Start Here](start-here.md) and stick it on the fridge.
+- **Mindset corner:** keep a "3 wins" notebook; evidence shows gratitude + purposeful routines improve tolerance.
+
 ## Chemo cheat sheet (plain language)
 
 | Regimen | How it feels | Why use it |
@@ -63,6 +70,18 @@
 | **Gemcitabine + Nab-Paclitaxel** | Similar to pancreatic regimens; neuropathy tends to creep in | Used when cisplatin or irinotecan aren’t options |
 | **CAPOX / FOLFOX** | IV plus oral capecitabine “chemo pills”; hands/feet need extra lotion | Adjuvant after surgery or second-line maintenance |
 | **Capecitabine solo** | Pill only, manageable at home | For frail patients or maintenance between scans |
+
+## Biomarkers & trial router
+
+1. Run the full panel (MMR/MSI, HER2, KRAS, BRCA/PALB2, TMB, NTRK/FGFR) → see [Biomarkers & Testing](biomarkers.md).
+2. Match to trials using the filters + outreach email inside [Clinical Trials](clinical-trials.md).
+3. Log results in the Community Hub so others can see what doors opened.
+
+## Idea Lab & future cures
+
+- Explore emerging combos, AI prompts, and home experiments in the [Future Frontiers](future-frontiers.md) page.
+- Submit anonymized clinic-note digests + scans via [Share Data Safely](share-data.md) so agents can map symptom → intervention → outcome.
+- Request help or co-researchers by opening a “New Topic” issue tagged **Idea Lab**.
 
 ## Real people, real wins
 
