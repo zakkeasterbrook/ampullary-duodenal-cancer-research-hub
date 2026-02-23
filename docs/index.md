@@ -38,50 +38,71 @@
   </ul>
 </div>
 
+## What is ampullary/duodenal cancer?
+
+Think of the ampulla as the “power junction” where the liver’s bile duct and the pancreas’s enzyme duct plug into the first part of the small intestine (duodenum). When cells there mutate:
+- **Pancreatobiliary-type** tumors act like pancreatic cancer—fast-growing “grease fires” that need aggressive chemo.
+- **Intestinal-type** tumors behave more like colon cancer—slower “brush fires” that often respond to 5-FU/oxaliplatin.
+- Once cancer slips into the bloodstream or lymph (liver mets, peritoneal spread), it becomes stage IV and systemic therapy is the main weapon.
+
+**Analogy:** Picture the biliary tree as a plumbing system. The tumor is either tree roots clogging the drain (causing jaundice) or a frayed electrical junction shorting the circuit (malabsorption, pain). Treatment first stabilizes the plumbing/electric, then attacks the root problem.
+
 ## Quick answers (3-minute read)
 
-- **Top symptoms to act on:** fever with chills, rising bilirubin/itch, new confusion, uncontrolled pain. Go to ER for cholangitis, drain clogs, or sudden weakness.
-- **Pain scale reality check:** mild (0–3) = Tylenol, heat packs; moderate (4–6) = add opioids + nerve blocks; severe (7–10) requires ER or urgent palliative consult.
-- **Chemo at a glance:** FOLFIRINOX = strongest shrinkage; Gem/Cis(+Durva) = steady workhorse; CAPOX/FOLFOX = maintenance/second line; capecitabine = gentle “keep moving” pill.
-- **Home care wins:** routine drain flushes, enzyme pills before food, hydration goal = 30 mL/kg/day, log every bowel movement.
-- **Mindset:** every small stability (labs, appetite, sleep) buys time for trials and stronger regimens. Celebrate wins weekly.
+- **Top symptoms to act on:** fever with chills, rising bilirubin/itch, new confusion, uncontrolled pain. ER for cholangitis, drain clogs, sudden weakness.
+- **Pain scale reality check:** 0–3 = Tylenol/heat packs; 4–6 = add opioids + nerve blocks; 7–10 = ER or urgent palliative consult.
+- **Chemo at a glance:** FOLFIRINOX = strongest shrinkage; Gem/Cis(+Durva) = workhorse; CAPOX/FOLFOX = maintenance; capecitabine = gentle “keep moving” pill.
+- **Home care wins:** drain flush routine, enzymes before food, hydration 30 mL/kg/day, bowel log.
+- **Mindset:** every small stability (labs, appetite, sleep) buys time. Celebrate wins weekly.
+
+## How it spreads & why drains matter
+
+- Tumor blocks bile flow → bilirubin climbs → infection risk. Stents/drains are like emergency bypass pipes.
+- Cancer cells hitch rides in lymph/blood → liver/peritoneum. Imaging (CT/MRI) maps spread; biomarkers predict fuel sources.
+- Without drains, chemo can’t start. Keep stents flushed, schedule exchanges every 6–8 weeks, and track skin color/itch to catch clogs.
 
 ## Pain & symptom survival kit
 
 - **Biliary itch fix:** cholestyramine packet + antihistamine at night + lukewarm showers.
-- **Drain care mantra:** flush, secure, cover. Keep spare caps, log output, have IR phone number pinned.
-- **Nausea stack:** ondansetron (set an alarm), add olanzapine nights 1–4, then ginger chews + walking laps.
-- **Neuropathy guard:** frozen peas on hands during oxaliplatin, slip-on shoes, PT referral at first tingle.
-- **Mood & sleep:** 10-minute gratitude voice note, melatonin 3 mg, ask for low-dose mirtazapine if appetite/sleep both crash.
+- **Drain care mantra:** flush, secure, cover. Keep spare caps, log output, have IR number pinned.
+- **Nausea stack:** ondansetron on schedule, add olanzapine nights 1–4, then ginger walks.
+- **Neuropathy guard:** frozen peas during oxaliplatin, slip-on shoes, PT referral at first tingle.
+- **Mood & sleep:** 10-minute gratitude voice note, melatonin 3 mg, low-dose mirtazapine if appetite/sleep crash.
 
 ## At-home survival toolkit
 
-- **Hydration & nutrition:** aim for 30 mL/kg/day fluids; pair every infusion with enzyme capsules + 15g protein snack. See [Integrative & Supportive Care](supportive-care.md).
-- **Week-by-week planner:** use the [Practical Playbook](practical-playbook.md) for checklists (labs, drain swaps, rest days).
-- **Pain ladder magnet:** print the pain scale + ER triggers from [Start Here](start-here.md) and stick it on the fridge.
-- **Mindset corner:** keep a "3 wins" notebook; evidence shows gratitude + purposeful routines improve tolerance.
+- **Hydration & nutrition:** aim for 30 mL/kg/day; pair every meal with enzymes + protein snack (see [Integrative & Supportive Care](supportive-care.md)).
+- **Week-by-week planner:** [Practical Playbook](practical-playbook.md) tracks labs, drain swaps, rest days.
+- **Pain ladder magnet:** print triggers from [Start Here](start-here.md) and stick on fridge.
+- **Mindset corner:** “3 wins” notebook + music you love; resilience improves chemo tolerance.
 
-## Chemo cheat sheet (plain language)
+## Chemo 101 (plain language)
 
-| Regimen | How it feels | Why use it |
-|---------|--------------|------------|
-| **FOLFIRINOX (modified)** | Strong punch; expect fatigue days 2–4, possible diarrhea, numb fingers | Best tumor shrinker for pancreatobiliary type when patient is sturdy |
-| **Gemcitabine + Cisplatin (+Durvalumab)** | Rhythm routine: day 1 & 8 infusions, off week to recover; watch kidneys & hearing | Standard for most biliary cancers; durva adds immune boost |
-| **Gemcitabine + Nab-Paclitaxel** | Similar to pancreatic regimens; neuropathy tends to creep in | Used when cisplatin or irinotecan aren’t options |
-| **CAPOX / FOLFOX** | IV plus oral capecitabine “chemo pills”; hands/feet need extra lotion | Adjuvant after surgery or second-line maintenance |
-| **Capecitabine solo** | Pill only, manageable at home | For frail patients or maintenance between scans |
+| Regimen | How it works (analogy) | How it feels | Why use it |
+|---------|------------------------|--------------|------------|
+| **FOLFIRINOX (modified)** | Multi-tool jackhammer smashing fast cells | Strong punch; fatigue days 2–4, possible diarrhea, numb fingers | Best shrinkage for pancreatobiliary subtype |
+| **Gemcitabine + Cisplatin (+Durvalumab)** | Twin pressure washers plus immune spotlight | Day 1 & 8 infusions, off week to recover; watch kidneys/hearing | Standard biliary regimen; durva adds immune boost |
+| **Gemcitabine + Nab-Paclitaxel** | Sandblaster for stubborn plaques | Similar to pancreatic regimens; neuropathy creeps in | When cisplatin/irinotecan aren’t options |
+| **CAPOX / FOLFOX** | IV primer + oral “paint” sealing leftover cells | Hands/feet need lotion; easier clinic schedule | Adjuvant or second-line maintenance |
+| **Capecitabine solo** | Gentle weatherproof coat | Pill-only, manageable at home | Frail patients or maintenance between scans |
+
+## Beyond chemo: targeted, immuno, alternatives
+
+- **Biomarker playbook:** [Biomarkers & Testing](biomarkers.md) explains HER2, MSI-H, KRAS G12C, BRCA/PALB2, NTRK, FGFR, TMB. Match results to trials via [Clinical Trials](clinical-trials.md).
+- **Immunotherapy:** MSI-H/dMMR or TMB-high tumors often respond to pembrolizumab/dostarlimab; TOPAZ-1 adds durvalumab even to MSI-stable disease.
+- **Alternative toolkit:** Curious about ivermectin, fenbendazole, high-dose vitamin C, mistletoe, HBOT, etc.? Read evidence, risks, and community links at the [Alternative Toolkit](alternative-toolkit.md) before trying anything.
 
 ## Biomarkers & trial router
 
-1. Run the full panel (MMR/MSI, HER2, KRAS, BRCA/PALB2, TMB, NTRK/FGFR) → see [Biomarkers & Testing](biomarkers.md).
-2. Match to trials using the filters + outreach email inside [Clinical Trials](clinical-trials.md).
-3. Log results in the Community Hub so others can see what doors opened.
+1. Run the full panel (MMR/MSI, HER2, KRAS, BRCA/PALB2, TMB, NTRK/FGFR).
+2. Use the filters + outreach scripts in [Clinical Trials](clinical-trials.md) to contact coordinators.
+3. Share outcomes in the Community Hub so others learn fast.
 
 ## Idea Lab & future cures
 
-- Explore emerging combos, AI prompts, and home experiments in the [Future Frontiers](future-frontiers.md) page.
-- Submit anonymized clinic-note digests + scans via [Share Data Safely](share-data.md) so agents can map symptom → intervention → outcome.
-- Request help or co-researchers by opening a “New Topic” issue tagged **Idea Lab**.
+- Explore emerging combos, AI prompts, and home experiments in [Future Frontiers](future-frontiers.md).
+- Submit anonymized clinic-note digests via [Share Data Safely](share-data.md).
+- Request collaborators by opening a “New Topic” issue tagged **Idea Lab**.
 
 ## Real people, real wins
 
