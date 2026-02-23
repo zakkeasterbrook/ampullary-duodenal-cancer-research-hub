@@ -6,11 +6,19 @@
 
 ---
 
+## 🚫 Why not “alternative-only” cancer treatment?
+
+- [NCI Cancer Currents](https://www.cancer.gov/news-events/cancer-currents-blog/2017/alternative-medicine-cancer-survival): patients choosing alternative medicine instead of conventional therapy had substantially worse survival in observational analyses.
+- [JAMA Oncology (Johnson et al.)](https://pubmed.ncbi.nlm.nih.gov/30027204/): complementary-medicine users were more likely to refuse standard therapy, leading to higher mortality.
+
+Use repurposed drugs **with** oncologist-approved care (clinical trials, adjunctive discussions), not as replacements.
+
 ## 🧠 Master repurposing databases
 
 | Resource | Why it matters |
 |----------|----------------|
 | [ReDO Project – PubMed overview](https://pubmed.ncbi.nlm.nih.gov/30679953/) | Peer-reviewed description of the Repurposing Drugs in Oncology (ReDO) effort and database criteria. |
+| [ReDO Project – full text](https://pmc.ncbi.nlm.nih.gov/articles/PMC6345075/) | Open version for agents/analysts to parse the entire dataset. |
 | [ReDO Project official site](https://www.redo-project.org/) | Live catalog of non-cancer drugs with anticancer evidence; jump-off point for deeper research. |
 | [Drug repurposing trial landscape (Frontiers 2021)](https://www.frontiersin.org/articles/10.3389/fphar.2021.790952/full) | Maps global repurposing trials and methodology—great for building the full list beyond the examples below. |
 
@@ -21,7 +29,7 @@
 ## 🦠 Ivermectin (still investigational for cancer)
 
 - **Mechanistic reviews:** [2018](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5835698/), [2020/2021](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7505114/), [2024](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11008553/), [2025](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12566834/) — all highlight mostly cell-line/animal data and the absence of solid human efficacy.
-- **Clinical trial:** [NCI-2022-02421](https://www.cancer.gov/about-cancer/treatment/clinical-trials/search/v?id=NCI-2022-02421) testing ivermectin + pembrolizumab in metastatic triple-negative breast cancer (phase I dose-finding/early signal).
+- **Clinical trial:** [NCI-2022-02421](https://www.cancer.gov/research/participate/clinical-trials-search/v?id=NCI-2022-02421) testing ivermectin + pembrolizumab in metastatic triple-negative breast cancer (phase I dose-finding/early signal). For context, pembrolizumab + chemo already improves PD-L1–positive TNBC survival per [KEYNOTE-355](https://www.cancer.gov/news-events/cancer-currents-blog/2022/pembrolizumab-triple-negative-breast-cancer-improves-survival).
 - **Safety/regulatory:** [FDA consumer warning](https://www.fda.gov/consumers/consumer-updates/ivermectin-and-covid-19) and [Stromectol label](https://www.accessdata.fda.gov/drugsatfda_docs/label/2009/050742s024s025lbl.pdf) emphasize prescription-only use and documented toxicities.
 
 _Remember: discuss only via legitimate medical channels or clinical trials._
@@ -32,7 +40,7 @@ _Remember: discuss only via legitimate medical channels or clinical trials._
 
 | Evidence | Takeaway |
 |----------|----------|
-| [ALASCCA NEJM 2025](https://www.nejm.org/doi/full/10.1056/NEJMoa2504650) + [ESMO summary](https://www.esmo.org/oncology-news/low-dose-adjuvant-aspirin-decreases-incidence-of-recurrence-among-patients-with-resected-pi3k-altered-crc) | Low-dose aspirin reduced recurrence **only** in PI3K-altered resected CRC; precision-medicine signal. |
+| [ALASCCA NEJM 2025](https://www.nejm.org/doi/full/10.1056/NEJMoa2504650) + [ESMO summary](https://www.esmo.org/oncology-news/low-dose-adjuvant-aspirin-decreases-incidence-of-recurrence-among-patients-with-resected-pi3k-altered-crc) + [ASCO Post](https://ascopost.com/news/september-2025/localized-pi3k-altered-colorectal-cancer-does-low-dose-aspirin-reduce-the-risk-of-recurrence/) | Low-dose aspirin reduced recurrence **only** in PI3K-altered resected CRC; precision-medicine signal. |
 | [ASCOLT trial (PubMed 39824200)](https://pubmed.ncbi.nlm.nih.gov/39824200/) | Broad CRC population did **not** see significant DFS benefit. |
 
 Interpretation: aspirin may help specific molecular subgroups, not everyone.

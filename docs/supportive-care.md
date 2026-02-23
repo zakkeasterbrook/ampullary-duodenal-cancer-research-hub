@@ -11,6 +11,7 @@ Comprehensive supportive care combines palliative medicine, evidence-informed in
 - **Nausea:** rotate dopamine antagonists (prochlorperazine), 5-HT3 blockers, NK1 inhibitors, and olanzapine; ensure bowel regimen.
 
 ### 2. Nutrition & metabolism
+- **Guidelines to anchor on:** [ACS Nutrition & Physical Activity Guideline](https://www.cancer.org/cancer/supportive-care/nutrition-activity-with-cancer/acs-nutrition-and-physical-activity-guideline-for-survivors.html) + [NCCN healthy living patient guide](https://www.nccn.org/patients/guidelines/content/PDF/survivorship-hl-patient.pdf) emphasize plant-forward eating, weight management, and daily movement.
 - **Pancreatic enzyme replacement**: weight-based dosing (500–1000 lipase units/kg/meal). Use acid suppression if steatorrhea persists.
 - **After stent/bypass:** small, frequent meals (5–6/day) with 15–20 g protein + healthy fat in each; avoid huge portions that stress the new plumbing.
 - **Hydration goal:** 30 mL/kg/day; use electrolyte packets on chemo days.
@@ -70,3 +71,10 @@ Tips: sit upright 30 minutes after meals, walk short laps to aid digestion, and 
 - NCCN Palliative Care Guidelines v2.2025
 - Pancreatic Cancer Action Network patient services (provide GI dietitians familiar with enzyme dosing)
 - Cancer Support Community and local hospice agencies for respite care
+
+---
+
+## Want more integrative evidence?
+
+- Use the [Integrative Evidence Guide](integrative-evidence.md) for ACS/NCCN lifestyle guidance, ketogenic/fasting/vitamin D data, ASCO cannabis stance, SIO-ASCO anxiety/depression recommendations, and the MSK About Herbs interaction database.
+- Review [MSK herb FAQs](https://www.mskcc.org/cancer-care/diagnosis-treatment/symptom-management/integrative-medicine/herbs/herbs-botanicals-other-products-faqs) before adding any supplement and share with your oncology pharmacist.

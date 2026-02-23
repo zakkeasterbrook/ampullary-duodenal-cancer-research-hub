@@ -1,6 +1,6 @@
 # Alternative & Exploratory Toolkit
 
-> **Disclaimer:** The therapies below are not standard of care. Many lack randomized data or can interfere with chemotherapy. Always review them with licensed physicians before attempting anything. We catalog them so families understand the hype, the evidence, and the risks.
+> **Disclaimer:** The therapies below are not standard of care. Many lack randomized data or can interfere with chemotherapy. Always review them with licensed physicians before attempting anything. Choosing alternative medicine **instead of** conventional therapy is linked to much worse survival ([NCI analysis](https://www.cancer.gov/news-events/cancer-currents-blog/2017/alternative-medicine-cancer-survival); [JAMA Oncology data](https://pubmed.ncbi.nlm.nih.gov/30027204/)). Use this page to inform evidence-based conversations, not to replace proven care.
 
 ## Navigation
 
@@ -41,13 +41,13 @@ Each section includes:
 
 - **Claim:** Dog dewormer (200 mg every other day) plus vitamin E, curcumin, CBD leads to remission.
 - **Mechanism hypothesis:** Microtubule disruption similar to mebendazole; may inhibit glucose uptake.
-- **Evidence check:** *Anecdote.* One case report (lung cancer) in 2018. No GI-specific data.
+- **Evidence check:** *Anecdote.* One case report (lung cancer) in 2018. **Key update:** the frequently cited case series was [retracted](https://pubmed.ncbi.nlm.nih.gov/41574240/) (see [PubMed entry](https://pubmed.ncbi.nlm.nih.gov/40605964/)). Treat it as unreliable.
 - **Risks:** Hepatotoxicity, neutropenia when combined with chemo, quality-control issues buying vet meds.
 - **Community links:**
   - Joe Tippens blog: https://www.mycancerstory.rocks/
   - Facebook group: https://www.facebook.com/groups/mycancerstory.rocks/
   - Reddit search: https://www.reddit.com/r/cancer/search/?q=fenbendazole&restrict_sr=1
-- **Advise:** Never substitute for chemo; if trying, use pharmaceutical-grade mebendazole under MD supervision.
+- **Advice:** Never substitute for chemo; if attempting under medical supervision, prefer pharmaceutical-grade mebendazole and frequent labs.
 
 ## High-dose Vitamin C
 
