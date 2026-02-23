@@ -38,6 +38,40 @@
   </ul>
 </div>
 
+## Quick answers (3-minute read)
+
+- **Top symptoms to act on:** fever with chills, rising bilirubin/itch, new confusion, uncontrolled pain. Go to ER for cholangitis, drain clogs, or sudden weakness.
+- **Pain scale reality check:** mild (0–3) = Tylenol, heat packs; moderate (4–6) = add opioids + nerve blocks; severe (7–10) requires ER or urgent palliative consult.
+- **Chemo at a glance:** FOLFIRINOX = strongest shrinkage; Gem/Cis(+Durva) = steady workhorse; CAPOX/FOLFOX = maintenance/second line; capecitabine = gentle “keep moving” pill.
+- **Home care wins:** routine drain flushes, enzyme pills before food, hydration goal = 30 mL/kg/day, log every bowel movement.
+- **Mindset:** every small stability (labs, appetite, sleep) buys time for trials and stronger regimens. Celebrate wins weekly.
+
+## Pain & symptom survival kit
+
+- **Biliary itch fix:** cholestyramine packet + antihistamine at night + lukewarm showers.
+- **Drain care mantra:** flush, secure, cover. Keep spare caps, log output, have IR phone number pinned.
+- **Nausea stack:** ondansetron (set an alarm), add olanzapine nights 1–4, then ginger chews + walking laps.
+- **Neuropathy guard:** frozen peas on hands during oxaliplatin, slip-on shoes, PT referral at first tingle.
+- **Mood & sleep:** 10-minute gratitude voice note, melatonin 3 mg, ask for low-dose mirtazapine if appetite/sleep both crash.
+
+## Chemo cheat sheet (plain language)
+
+| Regimen | How it feels | Why use it |
+|---------|--------------|------------|
+| **FOLFIRINOX (modified)** | Strong punch; expect fatigue days 2–4, possible diarrhea, numb fingers | Best tumor shrinker for pancreatobiliary type when patient is sturdy |
+| **Gemcitabine + Cisplatin (+Durvalumab)** | Rhythm routine: day 1 & 8 infusions, off week to recover; watch kidneys & hearing | Standard for most biliary cancers; durva adds immune boost |
+| **Gemcitabine + Nab-Paclitaxel** | Similar to pancreatic regimens; neuropathy tends to creep in | Used when cisplatin or irinotecan aren’t options |
+| **CAPOX / FOLFOX** | IV plus oral capecitabine “chemo pills”; hands/feet need extra lotion | Adjuvant after surgery or second-line maintenance |
+| **Capecitabine solo** | Pill only, manageable at home | For frail patients or maintenance between scans |
+
+## Real people, real wins
+
+- “We treated the drain like a kitchen sink clean-out—flushed daily, never hit the ER again.” — Caregiver, Ohio.
+- “Dose-reduced FOLFIRINOX still shrank liver spots; palliative PT kept mom walking.” — Daughter, 2025.
+- “Monthly gratitude calls kept morale high; oncologist said mindset mattered when scans stabilized.” — Patient, 2026.
+
+Read more in [Real-World Experiences](real-world.md) or add your own story via [Community Hub](community/README.md).
+
 ## How to use this hub
 
 1. **Start Here** translates jargon for families and highlights the first 72 hours of decisions—with analogies a high-schooler can share.
@@ -49,7 +83,7 @@
 ## Contribute & collaborate
 
 - Read the [Contributing Guide](contributing.md) for citation rules and templates.
-- Drop caregiver stories or research using the [Community Hub](community/README.md) templates.
+- Drop caregiver stories, clinic-note digests, or research using the [Community Hub](community/README.md) templates.
 - Automation agents (OpenClaw, etc.) follow the [Agent Playbook](AGENT_PLAYBOOK.md) for fast, safe updates.
 
 ## What "evidence-ranked" means
