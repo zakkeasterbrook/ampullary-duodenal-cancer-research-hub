@@ -8,6 +8,7 @@
     <a class="md-button" href="start-here/">Start Here (Families)</a>
     <a class="md-button md-button--secondary" href="contributing.md">Contribute research</a>
     <a class="md-button md-button--secondary" href="community/">Share a story</a>
+    <a class="md-button md-button--secondary" href="share-data/">Share clinic notes safely</a>
   </div>
   <div class="hero__grid">
     <div class="hero-card">
@@ -33,6 +34,7 @@
     <li><b>Desktop:</b> use the tabs across the top or the right-hand mini table of contents.</li>
     <li><b>Mobile:</b> tap the ☰ menu in the upper-left for all sections, and the chevron at the bottom for in-page headings.</li>
     <li><b>Search:</b> tap the magnifying glass (or press <code>/</code>) to jump anywhere instantly.</li>
+    <li><b>Need to upload info?</b> Use the "Contribute" tab → **Share Data Safely** for Anon MyChart summaries.</li>
   </ul>
 </div>
 

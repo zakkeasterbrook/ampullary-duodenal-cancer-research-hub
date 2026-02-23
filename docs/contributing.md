@@ -9,6 +9,7 @@ Thank you for helping families facing ampullary and duodenal cancers. This proje
 | Contribution | Examples | How to submit |
 |--------------|----------|---------------|
 | **Plain-language story** | What worked for drain care, nutrition hacks, inpatient tips | Open a "Human Story" issue or drop a file under `docs/community/` using the story template |
+| **Clinic note digest** | MyChart visit summary, doctor recommendations (anonymized) | Use the clinic-note template or Human Story issue |
 | **Research summary** | Trial results, biomarkers, guidelines | Open a "New Topic / Research" issue or create a new Markdown file under `docs/` |
 | **Correction** | Broken link, outdated regimen, typo | Open a "Correction" issue or send a pull request |
 
@@ -65,6 +66,7 @@ Tag statements inline (e.g., `*Guideline level.*`) and cite sources with markdow
 ## 8. Safety & privacy
 
 - Remove identifiers from caregiver stories (names, dates, locations).
+- When summarizing clinic notes, replace exact dates with month/year, omit provider names, and never upload PDFs/screenshots.
 - No medical advice: describe experiences & evidence, but remind readers to consult their care team.
 
 ## 9. Need help?

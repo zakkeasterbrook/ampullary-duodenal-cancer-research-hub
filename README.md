@@ -16,6 +16,7 @@ A community-built guide to make rare upper-GI cancers less mysterious. We combin
 2. Non-technical contributors can use GitHub’s web editor—no CLI required (step-by-step instructions included).
 3. Agents and developers can run `mkdocs serve` locally for live preview, then open a pull request.
 4. Want to share without touching Git? Open an issue using the **New Topic**, **Correction**, or **Human Story** template.
+5. Need to upload doctor summaries? Follow [`docs/share-data.md`](docs/share-data.md) for safe anonymization.
 
 ## Directory map
 

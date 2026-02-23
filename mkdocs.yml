@@ -24,6 +24,7 @@ nav:
   - "Disclaimer & Privacy": disclaimer.md
   - Contribute:
       - "How to Contribute": contributing.md
+      - "Share Data Safely": share-data.md
       - "Community Hub": community/README.md
       - "Agent Playbook": AGENT_PLAYBOOK.md
 theme:
