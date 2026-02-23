@@ -2,6 +2,8 @@
 
 A community-built guide to make rare upper-GI cancers less mysterious. We combine clinical evidence, crowd-sourced caregiver tactics, and plain-language explanations so families and clinicians can act faster.
 
+**Maintainer:** [Zakk Easterbrook](https://github.com/zakkeasterbrook)
+
 ## What makes this project different
 
 - **Evidence-ranked summaries** of duodenal adenocarcinoma and ampullary carcinoma treatments.
@@ -13,6 +15,7 @@ A community-built guide to make rare upper-GI cancers less mysterious. We combin
 1. Read [`CONTRIBUTING.md`](CONTRIBUTING.md) for how to add research or caregiver notes.
 2. Non-technical contributors can use GitHub’s web editor—no CLI required (step-by-step instructions included).
 3. Agents and developers can run `mkdocs serve` locally for live preview, then open a pull request.
+4. Want to share without touching Git? Open an issue using the **New Topic**, **Correction**, or **Human Story** template.
 
 ## Directory map
 

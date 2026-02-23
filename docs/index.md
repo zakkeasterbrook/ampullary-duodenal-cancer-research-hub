@@ -18,6 +18,12 @@
 - Drop caregiver stories or research using the [Community Hub](community/README.md) templates.
 - Automation agents (OpenClaw, etc.) follow the [Agent Playbook](AGENT_PLAYBOOK.md) for fast, safe updates.
 
+## Navigation tips (desktop & mobile)
+
+1. **Top tabs = major sections.** Use the horizontal tabs for Home, Start Here, Clinician Mode, etc. On phones, tap the hamburger menu (☰) in the top-left to reveal the same tree.
+2. **Section sidebar = quick jumps.** Once inside a page, the right-hand sidebar (or bottom dropdown on mobile) lets you jump between headings.
+3. **Search (press `/`).** The search bar (magnifying glass) finds keywords across the whole site, including anecdotes.
+
 ## What "evidence-ranked" means
 
 | Label | Meaning |
