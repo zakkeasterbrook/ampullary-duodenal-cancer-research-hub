@@ -74,7 +74,8 @@ Think of the ampulla as the “power junction” where the liver’s bile duct a
 
 - **Hydration & nutrition:** aim for 30 mL/kg/day; pair every meal with enzymes + protein snack (see [Integrative & Supportive Care](supportive-care.md)).
 - **Week-by-week planner:** [Practical Playbook](practical-playbook.md) tracks labs, drain swaps, rest days.
-- **Pain ladder magnet:** print triggers from [Start Here](start-here.md) and stick on fridge.
+- **Symptom radar:** print the [Symptom Dashboard](symptom-dashboard.md) for “call vs ER” decisions.
+- **Caregiver base:** use [Caregiver HQ](caregiver-hq.md) to organize binders, meds, and respite plans.
 - **Mindset corner:** “3 wins” notebook + music you love; resilience improves chemo tolerance.
 
 ## Chemo 101 (plain language)
@@ -86,6 +87,11 @@ Think of the ampulla as the “power junction” where the liver’s bile duct a
 | **Gemcitabine + Nab-Paclitaxel** | Sandblaster for stubborn plaques | Similar to pancreatic regimens; neuropathy creeps in | When cisplatin/irinotecan aren’t options |
 | **CAPOX / FOLFOX** | IV primer + oral “paint” sealing leftover cells | Hands/feet need lotion; easier clinic schedule | Adjuvant or second-line maintenance |
 | **Capecitabine solo** | Gentle weatherproof coat | Pill-only, manageable at home | Frail patients or maintenance between scans |
+
+## Surgery, bypass, and drains
+
+- Use [Surgery & Bypass](treatments/surgery-bypass.md) to see who qualifies for Whipple, when bypass is better, and how drains/stents stay happy.
+- Visuals + checklists explain gastrojejunostomy, hepaticojejunostomy, and pain procedures so families know what to expect.
 
 ## Beyond chemo: targeted, immuno, alternatives
 
@@ -111,7 +117,11 @@ Think of the ampulla as the “power junction” where the liver’s bile duct a
 - “Dose-reduced FOLFIRINOX still shrank liver spots; palliative PT kept mom walking.” — Daughter, 2025.
 - “Monthly gratitude calls kept morale high; oncologist said mindset mattered when scans stabilized.” — Patient, 2026.
 
-Read more in [Real-World Experiences](real-world.md) or add your own story via [Community Hub](community/README.md).
+Explore more in [Community Stories](community/stories.md) and [Real-World Experiences](real-world.md). Add yours via the templates.
+
+## Quick answers anytime
+
+Head to the [FAQ](faq.md) for fast myth-busting, or open the [Community Links](community-links.md) page to roam Reddit, Inspire, Facebook, and trial databases directly.
 
 ## How to use this hub
 

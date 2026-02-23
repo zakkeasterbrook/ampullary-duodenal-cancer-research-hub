@@ -7,6 +7,8 @@ nav:
   - Home: index.md
   - "Cancer 101": ampullary-101.md
   - "Start Here (Families)": start-here.md
+  - "Symptom Dashboard": symptom-dashboard.md
+  - "Caregiver HQ": caregiver-hq.md
   - "Clinician Mode": clinician-mode.md
   - "Deep Science Map": deep-science.md
   - "Diagnosis & Subtypes": diagnosis.md
@@ -14,6 +16,7 @@ nav:
   - Treatments:
       - "Chemotherapy Regimens": treatments/chemo.md
       - "Targeted & Immunotherapy": treatments/targeted-immunotherapy.md
+      - "Surgery & Bypass": treatments/surgery-bypass.md
       - "Radiation & Procedures": treatments/radiation-procedures.md
   - "Biomarkers & Testing": biomarkers.md
   - "Clinical Trials": clinical-trials.md
@@ -24,10 +27,12 @@ nav:
   - Glossary: glossary.md
   - "Sources & Methodology": methodology.md
   - "Disclaimer & Privacy": disclaimer.md
+  - FAQ: faq.md
   - "Future Frontiers": future-frontiers.md
   - Contribute:
       - "How to Contribute": contributing.md
       - "Share Data Safely": share-data.md
+      - "Community Stories": community/stories.md
       - "Community Hub": community/README.md
       - "Agent Playbook": AGENT_PLAYBOOK.md
   - "Alternative Toolkit": alternative-toolkit.md
