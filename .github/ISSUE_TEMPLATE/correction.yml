@@ -1,0 +1,24 @@
+name: Correction or update
+description: Report outdated info, broken links, or inaccuracies.
+title: "[Fix] <short description>"
+labels: ["needs-triage", "bug"]
+body:
+  - type: input
+    id: page
+    attributes:
+      label: Page or file
+      placeholder: e.g., docs/treatments/chemo.md
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: What’s wrong?
+      description: Include screenshots or quotes if helpful.
+    validations:
+      required: true
+  - type: textarea
+    id: suggested
+    attributes:
+      label: Suggested fix
+      description: Updated wording, new source, or question for review.

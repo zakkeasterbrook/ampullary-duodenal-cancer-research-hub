@@ -2,60 +2,57 @@
 
 > **Evidence strength:** Guideline — NCCN Hepatobiliary Cancers v2.2024; [Westgaard et al., Ann Surg Oncol 2009](https://pubmed.ncbi.nlm.nih.gov/19641972/)
 
-## Plain-English summary
+## Plain-English snapshot
 
-Ampullary and duodenal cancers are diagnosed via endoscopy or surgery, then classified by histology (intestinal vs pancreatobiliary) and molecular profile. The subtype predicts behavior: pancreatobiliary tumors act like pancreatic cancer, while intestinal tumors resemble colorectal cancer in outcomes.
+Doctors answer three questions:
+1. **Where did the tumor start?** (ampulla vs duodenum)
+2. **What does it look like under the microscope?** (intestinal vs pancreatobiliary)
+3. **What switches are flipped in the DNA?** (MMR, HER2, KRAS, etc.)
 
-## Workup components
+Those answers predict whether the cancer behaves like colon cancer (slower, likes 5-FU) or like pancreatic cancer (faster, likes FOLFIRINOX/gemcitabine doublets).
 
-1. **Symptoms:** jaundice, pruritus, abdominal pain, gastric outlet obstruction, GI bleeding.
-2. **Testing:**
-   - Labs: LFTs, bilirubin fractionation, CA 19-9, CEA.
-   - Imaging: multiphasic pancreas-protocol CT or MRI/MRCP.
-   - Endoscopic ultrasound (EUS) with FNA or ERCP brushing/biopsies.
-   - Surgical pathology when Whipple performed.
-3. **Pathology review:** immunostains (CK7, CK20, MUC1, MUC2, CDX2) plus mismatch repair proteins (MLH1, MSH2, MSH6, PMS2).
+## How the diagnosis comes together
 
-## Histologic subtypes
+1. **Red-flag symptoms** – jaundice, itchy skin, pale stools, abdominal pain, vomiting after meals, GI bleeding.
+2. **Imaging & scopes** – pancreas-protocol CT or MRI/MRCP map the plumbing; EUS or ERCP takes tiny biopsies. Think of EUS as an ultrasound wand pressed from inside the stomach, while ERCP is a “pipe snake” that also places stents.
+3. **Lab clues** – liver panel, bilirubin fractions, CA19-9, CEA. Rising bilirubin often means the “pipes” are blocked.
+4. **Pathology workup** – stains such as CK7/CK20, MUC1/MUC2, CDX2 plus mismatch repair proteins (MLH1, MSH2, MSH6, PMS2) classify the tumor.
 
-| Subtype | Features | Median survival (localized) |
-|---------|----------|-----------------------------|
-| **Intestinal** | CK20+, MUC2+, CDX2+, resembles colorectal mucosa | 30–40 months |
-| **Pancreatobiliary** | CK7+, MUC1+, aggressive stroma, KRAS mutations frequent | 12–20 months |
-| **Mixed** | Areas of both | Intermediate |
+## Subtypes explained with analogies
 
-Pancreatobiliary histology correlates with higher nodal burden and earlier liver metastasis.[1](https://pubmed.ncbi.nlm.nih.gov/19641972/)
+- **Intestinal type**: looks like the lining of the small intestine/colon. Imagine a velvet carpet—softer, more organized. Median survival in localized disease 30–40 months.
+- **Pancreatobiliary type**: thicker, scar-like tissue from the bile/pancreas ducts; behaves like a more aggressive weed patch. Median survival 12–20 months.
+- **Mixed**: patches of both carpets; outcomes sit in the middle.
 
-## Molecular features
+## DNA & biomarker cheat sheet
 
-- **KRAS** mutations in ~40–60% (G12D, G12V); KRAS G12C (~3–4%) now targetable with sotorasib/adagrasib.
-- **TP53**, **SMAD4**, **CDKN2A** changes mirror pancreatic cancer.
-- **MSI-H/dMMR** present in 3–5% (more common in intestinal type) ? pembrolizumab eligibility.
-- **HER2 amplification/overexpression** ~5–15%; confirm with IHC + FISH before trastuzumab.
-- **BRCA1/2, PALB2** germline/somatic alterations (2–4%) ? PARP inhibitor discussions.
-- **NTRK/ALK/ROS1 fusions** rare (<1%) but actionable.
+| Biomarker | Why it matters |
+|-----------|----------------|
+| **KRAS** (40–60%) | Drives aggressiveness; G12C mutations unlock adagrasib/sotorasib combos |
+| **TP53 / SMAD4 / CDKN2A** | “Brakes” lost in pancreatic-style disease |
+| **MSI-H / dMMR (~5%)** | Opens pembrolizumab/dostarlimab door |
+| **HER2 (5–15%)** | Consider trastuzumab or trastuzumab deruxtecan |
+| **BRCA1/2 / PALB2 (2–4%)** | Signals platinum sensitivity + PARP options |
+| **NTRK/ALK/ROS1 fusions (<1%)** | Tumor-agnostic targeted therapies |
 
-## Differential diagnosis
+## Distinguishing from mimics
 
-| Condition | Distinguishing clues |
-|-----------|----------------------|
-| Pancreatic ductal adenocarcinoma | Bulk in pancreatic head, SMV/SMA encasement, CA 19-9 >1000 |
-| Distal cholangiocarcinoma | Expands distal bile duct, more periductal-infiltrating pattern |
-| Duodenal adenocarcinoma | Lesion located away from papilla, may be villous |
-| Neuroendocrine tumor | Chromogranin/synaptophysin+, well-circumscribed |
+- **Pancreatic ductal adenocarcinoma:** tumor bulk in pancreatic head, often wraps vessels (SMA/SMV), CA19-9 can spike >1000.
+- **Distal cholangiocarcinoma:** hugs the bile duct itself; more “sleeve-like” growth.
+- **Duodenal adenocarcinoma (non-ampullary):** lesion away from the papilla, sometimes villous.
+- **Neuroendocrine tumors:** well-circumscribed, chromogranin/synaptophysin positive.
 
-## Liver metastasis confirmation
+## Confirming liver spread
 
-- Use MRI with hepatobiliary agent (gadoxetate) or contrast CT.
-- Biopsy if histology is uncertain, or if considering clinical trial requiring tissue.
-- Evaluate for portal vein thrombosis and biliary dilation extent before interventions.
+- MRI with hepatobiliary contrast (gadoxetate) or triphasic CT shows small lesions best.
+- Biopsy if pathology is uncertain or a clinical trial needs fresh tissue.
+- Map portal vein patency and bile duct dilation before deciding on drains or embolization.
 
-## Biliary obstruction toolbox
+## Biliary obstruction toolbox (plumbing guide)
 
-| Approach | When used | Notes |
-|----------|-----------|-------|
-| ERCP with stent | First-line for most obstructions | SEMS > plastic for expected survival >4 months |
-| EUS-guided biliary drainage | When duodenal stenosis prevents ERCP | Requires experienced advanced endoscopist |
-| PTBD/PTHC | Altered anatomy, failed ERCP/EUS, or urgent decompression | Educate about drain care, infection risk |
+- **ERCP with stent** – first-line “pipe relining.” Self-expanding metal stents (SEMS) last longer if expected survival >4 months.
+- **EUS-guided drainage** – if the scope can’t reach through a blocked duodenum, the doctor pokes a new channel under ultrasound guidance.
+- **Percutaneous drain (PTBD/PTHC)** – the “chimney vent” placed through the skin when other routes fail or urgent decompression is needed. Requires daily flushes and infection vigilance.
 
-Accurate subtype + molecular data feed into staging and treatment decisions covered in the next sections.
+Having the subtype + biomarker profile documented unlocks the treatment sections that follow. Keep a copy of the pathology report—it becomes the roadmap for every future decision.
+

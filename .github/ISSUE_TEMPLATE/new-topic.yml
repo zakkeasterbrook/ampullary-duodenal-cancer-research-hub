@@ -1,0 +1,46 @@
+name: New topic or research drop
+description: Propose evidence, clinical insights, or new sections for the hub.
+title: "[Research] <short description>"
+labels: ["needs-triage", "research"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for sharing knowledge! Fill out whatever you can—links are better than perfection.
+  - type: input
+    id: summary
+    attributes:
+      label: Plain-language summary
+      description: One or two sentences a caregiver would understand.
+      placeholder: e.g., "Metal stents lasted 2x longer than plastic in this cohort."
+    validations:
+      required: true
+  - type: textarea
+    id: details
+    attributes:
+      label: Key details
+      description: Study design, population, outcomes, biomarkers, etc.
+    validations:
+      required: true
+  - type: dropdown
+    id: evidence
+    attributes:
+      label: Evidence level
+      options:
+        - Guideline
+        - Randomized / Phase III
+        - Phase II / Cohort
+        - Case series / Mechanistic
+        - Anecdote
+    validations:
+      required: true
+  - type: textarea
+    id: citations
+    attributes:
+      label: Links & citations
+      description: PubMed / DOI / conference link
+  - type: textarea
+    id: questions
+    attributes:
+      label: Questions to ask clinicians
+      description: Optional prompt list families can use.

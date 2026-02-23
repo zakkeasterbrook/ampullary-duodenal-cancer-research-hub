@@ -6,70 +6,70 @@
 > - FOLFOX second-line — [Lamarca et al., *Lancet Oncol.* 2021 (ABC-06)](https://pubmed.ncbi.nlm.nih.gov/33979517/)
 > - CAPOX/FOLFOX adjuvant data extrapolated from [ESPAC-3](https://pubmed.ncbi.nlm.nih.gov/22382232/) and NCCN consensus
 
-## Quick comparison table
+## Pick-the-plan overview
 
-| Regimen | Typical use | ORR / PFS / OS | Key toxicities | Older adult adjustments |
-|---------|-------------|----------------|----------------|-------------------------|
-| **Modified FOLFIRINOX** (oxaliplatin 85 mg/m², irinotecan 150 mg/m², infusional 5-FU 2400 mg/m²) | Fit patients, pancreatobiliary subtype | ORR 31–45%; median PFS 6.6 mo; OS 15 mo | Neutropenia, diarrhea, neuropathy, fatigue | Drop bolus 5-FU; start at 80% doses; G-CSF prophylaxis; check UGT1A1*28 |
-| **Gemcitabine + cisplatin** | Standard for biliary tract; durable if bilirubin controlled | ORR 26%; OS 11.7 mo | Nephrotoxicity, tinnitus, fatigue | Use split-dose cisplatin (day 1 & 8, 25 mg/m²) or substitute carboplatin if CrCl <50 |
-| **Gemcitabine + cisplatin + durvalumab** | TOPAZ-1 regimen; consider regardless of PD-L1 | OS 12.9 mo (HR 0.80) | Adds immune-related AEs (thyroiditis, hepatitis) | Monitor for autoimmune flares; treat-grade =2 toxicity with steroids |
-| **Gemcitabine + nab-paclitaxel** | Alternative frontline for pancreatic-like biology | ORR 23%; OS 8.5–11 mo | Neuropathy, myelosuppression | Reduce nab-paclitaxel to 100 mg/m² when baseline neuropathy |
-| **CAPOX / FOLFOX** | Adjuvant after R0/R1 or second-line metastatic | ABC-06: OS 6.2 vs 5.3 mo vs BSC | Neuropathy, mucositis | Capecitabine 1000 mg/m² bid days 1–14 q21d for age =75 |
-| **NALIRI + 5-FU/LV (NAPOLI-style)** | Third line when oxaliplatin exhausted | Disease control ~35% | Diarrhea, fatigue | Start at 60–80% if bilirubin >ULN |
-| **Capecitabine monotherapy** | Frail patients, maintenance, adjuvant intestinal subtype | Disease control 20–30% | Hand-foot syndrome, diarrhea | Use 1000 mg/m² bid or 1250 mg total BID with weekly labs |
+Think of chemo regimens as toolkits with different horsepower:
 
-## Regimen pearls
+1. **Modified FOLFIRINOX** – the turbo engine for fit patients or clearly pancreatobiliary biology.
+2. **Gemcitabine + cisplatin (± durvalumab)** – the workhorse for most biliary cancers, especially when neuropathy is a concern.
+3. **Gemcitabine + nab-paclitaxel** – backup drivetrain when cisplatin is off the table.
+4. **CAPOX/FOLFOX** – maintenance/adjuvant or second-line “electric motor” that runs steadier but slightly slower.
+5. **Irinotecan-based options (FOLFIRI, NALIRI+5-FU/LV)** – late-line gears when oxaliplatin has maxed out.
+6. **Capecitabine alone** – eco-mode for frail folks or maintenance.
 
-### Modified FOLFIRINOX
+### Snapshot cheat sheet
 
-- **Why**: highest response among chemo options for pancreatobiliary histology; shrinks bulky nodes and improves biliary drainage chances.
-- **Monitoring**: CBC weekly first cycle, CMP q2w, neuropathy check each visit, stool logs.
-- **Dose-mod suggestions** (not prescriptions): start at 80% if =75 years, bilirubin 1–2× ULN, or ECOG 1–2; escalate if tolerated.
-- **Questions to ask oncologist**
-  - Will growth factor support be used up front?
-  - How many cycles before restaging?
-  - What is the plan if neuropathy appears (oxaliplatin stop-and-go)?
+| Regimen | Best fit | Key numbers | Plain-language toxicities | Elderly tweaks |
+|---------|----------|-------------|---------------------------|----------------|
+| **Modified FOLFIRINOX** | Strong performance status, pancreatobiliary subtype | ORR 31–45%, PFS ~6.6 mo, OS ~15 mo | WBC drops, diarrhea, numb fingers | Start at 80%, drop bolus 5-FU, consider G-CSF |
+| **Gemcitabine + cisplatin** | Default for biliary/ampullary when bilirubin under control | ORR 26%, OS 11.7 mo | Kidney strain, ringing ears, fatigue | Split cisplatin (day 1 & 8) or swap to carboplatin if CrCl <50 |
+| **Gemcitabine + cisplatin + durvalumab** | Same as above but adds immune boost | OS 12.9 mo (HR 0.80) | Same chemo risks + thyroid/liver inflammation | Check thyroid/cortisol labs q6–8 wks |
+| **Gemcitabine + nab-paclitaxel** | When cisplatin can’t be used or neuropathy already present | ORR ~23%, OS 8.5–11 mo | Neuropathy, low counts | Start nab-paclitaxel 100 mg/m² if baseline neuropathy |
+| **CAPOX / FOLFOX** | Adjuvant post-surgery or second-line metastatic | ABC-06 OS 6.2 vs 5.3 mo vs BSC | Hand-foot, neuropathy, mouth sores | Capecitabine 1000 mg/m² bid for age ≥75 |
+| **NALIRI + 5-FU/LV** | Third line when oxaliplatin spent | Disease control ~35% | Diarrhea, fatigue | 60–80% start if bilirubin high |
+| **Capecitabine single-agent** | Maintenance or frail patients | Disease control 20–30% | Hand-foot, GI upset | 1000 mg/m² bid or fixed 1250 mg BID with weekly labs |
 
-### Gemcitabine + cisplatin (± durvalumab)
+## Regimen deep dives
 
-- **Why**: standard for biliary tract, especially when neuropathy or irinotecan contraindicates FOLFIRINOX.
-- **Practical tips**: hydrate aggressively; monitor Mg/K; check dental status prior to prolonged cisplatin.
-- **Durvalumab** adds survival benefit regardless of PD-L1; watch for immune hepatitis in stented patients.
-- **Questions**
-  - Can cisplatin be split over two days to reduce nausea?
-  - When will immune-related labs (TSH, cortisol) be checked?
-  - What is the threshold for swapping to carboplatin?
+### Modified FOLFIRINOX = “pressure washer”
+- **Why:** best shot at shrinking bulky nodes/liver lesions.
+- **Care plan:** weekly CBC first cycle, neuropathy check every visit, proactive loperamide.
+- **Ask the oncologist:** Will growth-factor shots be routine? What’s the oxaliplatin stop-and-go plan? How many cycles before imaging?
 
-### Gemcitabine + nab-paclitaxel
+### Gemcitabine + cisplatin (± durvalumab) = “reliable pickup truck”
+- **Why:** proven survival benefit with manageable schedule (q1–8 days, rest day 15).
+- **Tips:** 1–2 L IV hydration, monitor Mg/K, dental exam before long cisplatin runs.
+- **Durvalumab bonus:** immune therapy every 4 weeks—watch for thyroiditis or hepatitis, especially with stents.
+- **Ask:** Can we split cisplatin over two days? What are the lab triggers to hold chemo? How do we monitor for immune side effects?
 
-- **Evidence**: Extrapolated from metastatic pancreatic cancer (MPACT trial) and biliary phase II cohorts showing disease control ~50%.
-- **Use case**: When cisplatin not tolerated or patient previously on FOLFOX.
-- **Toxicity mitigation**: baseline neuropathy exam, weekly dose holds for grade 2 neuropathy.
+### Gemcitabine + nab-paclitaxel = “pancreatic playbook”
+- Best when neuropathy risk acceptable and cisplatin is off the menu.
+- Hold/ reduce if tingling or numbness creeps in; physical therapy for balance.
 
-### CAPOX / FOLFOX
+### CAPOX / FOLFOX = “steady cruise control”
+- **Adjuvant:** capecitabine 6 months post-Whipple; FOLFOX for high-risk margins.
+- **Second-line:** small but real OS bump vs best supportive care (ABC-06).
+- **Home hacks:** urea-based creams day 1 onward, ice chips during oxaliplatin for neuropathy, plan rest days.
 
-- **Adjuvant**: NCCN recommends capecitabine x6 months post-Whipple; FOLFOX considered for R1 or node-positive disease.
-- **Second-line**: ABC-06 proves modest OS benefit; combine with supportive care.
-- **Elderly tips**: start capecitabine 1000 mg/m² bid; emphasize hand-foot prophylaxis (urea cream, vitamin B6 controversial but often used).
+### Irinotecan-based (FOLFIRI or NALIRI + 5-FU/LV)
+- Use when oxaliplatin neuropathy is limiting or intestinal subtype favors 5-FU backbone.
+- Check UGT1A1*28 genotype if available; adjust if bilirubin > ULN.
 
-### Irinotecan-based (FOLFIRI, nal-IRI + 5-FU/LV)
+### Capecitabine solo
+- Good for “maintenance miles” or when combinations are too rough.
+- Pair with enzyme replacement, hydration plan, and telehealth check-ins every 1–2 weeks.
 
-- **Evidence**: Biliary phase II studies show response 10–15%; best for intestinal subtype or BRCA wild type when oxaliplatin exhausted.
-- **Testing**: UGT1A1*28; adjust for hyperbilirubinemia.
+## Chemo + liver-directed therapy
 
-### Capecitabine single-agent
+- Start systemic therapy first to control microscopic disease.
+- Pause chemo 7 days before SBRT/Y-90 and resume 1–2 weeks after once labs stabilize.
 
-- **Role**: Maintenance or when combination chemo intolerable.
-- **Practical**: pair with pancreatic enzymes and loperamide instructions; schedule telehealth toxicity reviews.
+## Supportive bundles to run alongside chemo
 
-## Liver-directed therapy interplay
+- **Pancreatic enzymes:** 25,000–40,000 lipase units with meals so calories stick.[3](https://www.nccn.org/guidelines)
+- **Pruritus stack:** cholestyramine + hydroxyzine + cooling lotions for stent itch.
+- **Vaccines:** annual flu, COVID booster, pneumococcal per CDC since chemo blunts immunity.
+- **Neuropathy toolkit:** B6-free moisturizers, gentle stretching, referral to PT/OT if gait changes.
 
-Systemic therapy should start before or alongside SBRT/Y-90. Hold chemotherapy 1 week before SBRT and resume 1–2 weeks after if bilirubin stable.
+Need biomarker-driven ideas? Head to [Targeted & Immunotherapy](targeted-immunotherapy.md) next.
 
-## Supportive bundles during chemo
-
-- **Enzyme replacement** (pancrelipase 25,000–40,000 units with meals) reduces steatorrhea.[3](https://www.nccn.org/guidelines)
-- **Antipruritic regimen**: cholestyramine + hydroxyzine + topical menthol for stent-related itching.
-- **Vaccinations**: influenza annually, pneumococcal as per CDC, COVID booster.
-
-Refer to [Targeted & Immunotherapy](targeted-immunotherapy.md) for biomarker-driven options.

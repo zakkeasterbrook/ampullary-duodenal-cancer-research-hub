@@ -6,11 +6,17 @@
 
 ## How to use this hub
 
-1. **Start Here** translates jargon for families and highlights the first 72 hours of decisions.
+1. **Start Here** translates jargon for families and highlights the first 72 hours of decisions—with analogies a high-schooler can share.
 2. **Clinician Mode** aggregates granular data (subtype genomics, response rates, biomarker algorithms).
 3. **Treatments** drills down on chemotherapy, targeted therapy, immunotherapy, and procedures for biliary obstruction.
 4. **Real-world experiences** summarize patterns from Inspire, Reddit, Cancer Survivors Network, and public blogs—clearly labeled as anecdotal.
 5. **Practical Playbook** offers week-by-week checklists, question lists, and second-opinion tactics.
+
+## Contribute & collaborate
+
+- Read the [Contributing Guide](../CONTRIBUTING.md) for citation rules and templates.
+- Drop caregiver stories or research using the [Community Hub](community/README.md) templates.
+- Automation agents (OpenClaw, etc.) follow the [Agent Playbook](AGENT_PLAYBOOK.md) for fast, safe updates.
 
 ## What "evidence-ranked" means
 

@@ -1,0 +1,35 @@
+name: Human story or practical hack
+description: Share lived experience so others can learn faster.
+title: "[Story] <short description>"
+labels: ["story", "needs-plain-language"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        No identifiers please—focus on what happened and what others can try with their medical team.
+  - type: dropdown
+    id: role
+    attributes:
+      label: Role
+      options:
+        - Caregiver
+        - Patient
+        - Clinician
+        - Advocate
+    validations:
+      required: true
+  - type: textarea
+    id: summary
+    attributes:
+      label: Plain-language summary
+      placeholder: "We treated the drain like a kitchen sink clean-out, flushing twice a day."
+    validations:
+      required: true
+  - type: textarea
+    id: details
+    attributes:
+      label: What worked / what to watch for
+  - type: textarea
+    id: questions
+    attributes:
+      label: Questions to ask doctors
