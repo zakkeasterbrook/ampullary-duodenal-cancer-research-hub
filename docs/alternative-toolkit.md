@@ -30,8 +30,9 @@ Each section includes:
 - **Evidence check:** *Anecdote / preclinical.* No human trials for ampullary/duodenal cancers. One phase I trial (NCT02338992) in hematologic malignancies halted.
 - **Risks:** Liver enzyme elevation, interaction with CYP3A4 drugs (irinotecan, paclitaxel). High doses can cause neurotoxicity.
 - **Community links:**
-  - Joe Tippens Facebook group threads
-  - r/cancer “ivermectin megathread” (2024) — mostly pancreatic discussions.
+  - Joe Tippens community: https://www.mycancerstory.rocks/
+  - Reddit ivermectin hub: https://www.reddit.com/r/ivermectin/
+  - r/cancer search tip: https://www.reddit.com/r/cancer/search/?q=ivermectin+ampullary&restrict_sr=1
 - **Clinical guidance:** Oncologists caution against combining with platinum regimens without monitoring LFTs.
 
 ## Fenbendazole ("Joe Tippens protocol")
@@ -41,8 +42,9 @@ Each section includes:
 - **Evidence check:** *Anecdote.* One case report (lung cancer) in 2018. No GI-specific data.
 - **Risks:** Hepatotoxicity, neutropenia when combined with chemo, quality-control issues buying vet meds.
 - **Community links:**
-  - Joe Tippens blog (joots.net)
-  - Inspire “FenBen users” thread (flagged for moderation)
+  - Joe Tippens blog: https://www.mycancerstory.rocks/
+  - Facebook group: https://www.facebook.com/groups/mycancerstory.rocks/
+  - Reddit search: https://www.reddit.com/r/cancer/search/?q=fenbendazole&restrict_sr=1
 - **Advise:** Never substitute for chemo; if trying, use pharmaceutical-grade mebendazole under MD supervision.
 
 ## High-dose Vitamin C
@@ -51,7 +53,10 @@ Each section includes:
 - **Mechanism:** Generates hydrogen peroxide in tumor microenvironment; may synergize with gemcitabine.
 - **Evidence:** *Phase I/II pilot* (Ma et al., 2019) in pancreatic cancer showed improved fatigue but no OS advantage. Trials (NCT03146962) still recruiting.
 - **Risks:** Kidney stones, G6PD deficiency hemolysis, interference with lab glucose readings.
-- **Where to get it:** Integrative oncology clinics (Riordan, Care Oncology). Insurance rarely covers; ask for lab monitoring.
+- **Where to read/watch:**
+  - Riordan Clinic research: https://riordanclinic.org/ivc-research/
+  - Care Oncology integrative protocols: https://careoncology.com/
+  - Reddit experiences: https://www.reddit.com/r/cancer/search/?q=%22high%20dose%20vitamin%20c%22&restrict_sr=1
 
 ## Mistletoe (Viscum album)
 
