@@ -24,6 +24,48 @@
   </ul>
 </div>
 
+## Your treatment playbook
+
+<div class="step-grid">
+  <div class="step-card">
+    <h3>1. Stabilize flow</h3>
+    <p>Flush stents/drains, log bilirubin, know ER triggers. See the <a href="symptom-dashboard/">Symptom Dashboard</a>.</p>
+  </div>
+  <div class="step-card">
+    <h3>2. Learn the cancer</h3>
+    <p>Subtype (intestinal vs pancreatobiliary) + biomarkers guide therapy. Start at <a href="ampullary-101/">Cancer 101</a>.</p>
+  </div>
+  <div class="step-card">
+    <h3>3. Build the regimen</h3>
+    <p>Use <a href="treatments/chemo/">Chemo 101</a>, <a href="treatments/targeted-immunotherapy/">Targeted/Immuno</a>, and <a href="treatments/surgery-bypass/">Surgery & Bypass</a> to map options.</p>
+  </div>
+  <div class="step-card">
+    <h3>4. Support the body</h3>
+    <p>Follow <a href="supportive-care/">Supportive Care</a>, <a href="practical-playbook/">Practical Playbook</a>, and <a href="caregiver-hq/">Caregiver HQ</a> for daily routines.</p>
+  </div>
+  <div class="step-card">
+    <h3>5. Explore & contribute</h3>
+    <p>Check the <a href="future-frontiers/">Future Frontiers</a> + <a href="alternative-toolkit/">Alternative Toolkit</a>. Share your story via <a href="community/stories/">Community Stories</a>.</p>
+  </div>
+</div>
+
+## Hope board
+
+<div class="hope-board">
+  <div class="hope-card">
+    <h4>Stability is progress</h4>
+    <p>Many families see bilirubin normalize and pain drop within weeks of stenting + chemo dose adjustments.</p>
+  </div>
+  <div class="hope-card">
+    <h4>Trials keep opening</h4>
+    <p>KRAS G12C combos, PARP + chemo, and CLDN18.2 trials now include ampullary cases. We list them in <a href="clinical-trials/">Clinical Trials</a>.</p>
+  </div>
+  <div class="hope-card">
+    <h4>Community wins</h4>
+    <p>Read how caregivers avoided ER visits, kept weight steady, or found dose tweaks in <a href="community/stories/">Community Stories</a>.</p>
+  </div>
+</div>
+
 ## What is ampullary/duodenal cancer?
 
 Think of the ampulla as the “power junction” where the liver’s bile duct and the pancreas’s enzyme duct plug into the first part of the small intestine. When cells there mutate:
@@ -79,11 +121,24 @@ Think of the ampulla as the “power junction” where the liver’s bile duct a
 - Read [Surgery & Bypass](treatments/surgery-bypass.md) for Whipple vs bypass decisions, drain expectations, and pain procedures.
 - Use it alongside the Symptom Dashboard so every drain/stent question has a home.
 
+## Treatment menu at a glance
+
+| Category | Examples | What it does | Learn more |
+|----------|---------|--------------|------------|
+| **Chemotherapy** | FOLFIRINOX, Gem/Cis(+Durva), CAPOX/FOLFOX, Capecitabine | Shrinks tumors, controls spread | [Chemo Regimens](treatments/chemo.md) |
+| **Targeted** | HER2 blockers, KRAS G12C inhibitors, PARP inhibitors | Attack specific mutations | [Targeted & Immunotherapy](treatments/targeted-immunotherapy.md) |
+| **Immunotherapy** | Pembrolizumab, Dostarlimab, Durvalumab | Unleash immune system | [Targeted & Immunotherapy](treatments/targeted-immunotherapy.md) |
+| **Surgery/BP** | Whipple, hepaticojejunostomy, stents, drains | Remove or reroute blockages | [Surgery & Bypass](treatments/surgery-bypass.md) |
+| **Radiation & Local** | SBRT, Y-90, ablation | Control pain/local tumors | [Radiation & Procedures](treatments/radiation-procedures.md) |
+| **Alternative/Adjunct** | Ivermectin, fenbendazole, mistletoe, high-dose vitamin C | Community-tested add-ons (evidence varies) | [Alternative Toolkit](alternative-toolkit.md) |
+
 ## Beyond chemo: targeted, immuno, alternatives
 
 - **Biomarker playbook:** [Biomarkers & Testing](biomarkers.md) explains HER2, MSI-H, KRAS G12C, BRCA/PALB2, NTRK, FGFR, TMB. Match results to trials via [Clinical Trials](clinical-trials.md).
 - **Immunotherapy:** MSI-H/dMMR or TMB-high tumors often respond to pembrolizumab/dostarlimab; TOPAZ-1 adds durvalumab even to MSI-stable disease.
-- **Alternative toolkit:** Curious about ivermectin, fenbendazole, high-dose vitamin C, mistletoe, HBOT, etc.? Read evidence, risks, and community links at the [Alternative Toolkit](alternative-toolkit.md) before trying anything.
+- **Alternative toolkit:** Curious about ivermectin, fenbendazole, high-dose vitamin C, mistletoe, HBOT, Care Oncology, etc.? Read evidence, risks, and community links at the [Alternative Toolkit](alternative-toolkit.md) before trying anything.
+
+> ⚠️ Reminder: Always review non-standard therapies with a licensed oncologist. The Toolkit is for research visibility, not DIY medical advice.
 
 ## Biomarkers & trial router
 
@@ -97,6 +152,17 @@ Think of the ampulla as the “power junction” where the liver’s bile duct a
 - Visit [Alternative Toolkit](alternative-toolkit.md) for ivermectin/fenben/vitamin C research trails (with caution banners).
 - Submit anonymized clinic-note digests via [Share Data Safely](share-data.md).
 - Request collaborators by opening a “New Topic” issue tagged **Idea Lab**.
+
+## Latest research & community threads
+
+<div class="latest-links">
+  <ul>
+    <li><a href="future-frontiers/">Future Frontiers</a> – AI prompts, metabolic combos, and microbiome ideas to ask your team about.</li>
+    <li><a href="alternative-toolkit/">Alternative Toolkit</a> – ivermectin, fenbendazole, high-dose vitamin C, mistletoe, HBOT (with evidence labels).</li>
+    <li><a href="community-links/">Community Links</a> – direct access to Reddit, Inspire, Smart Patients, and Facebook groups.</li>
+    <li><a href="clinical-trials/">Clinical Trials</a> – filters + outreach scripts for KRAS G12C, PARP, CLDN18.2, and more.</li>
+  </ul>
+</div>
 
 ## Real people, real wins
 
