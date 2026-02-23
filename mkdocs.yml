@@ -28,6 +28,7 @@ nav:
       - "Share Data Safely": share-data.md
       - "Community Hub": community/README.md
       - "Agent Playbook": AGENT_PLAYBOOK.md
+  - "Alternative Toolkit": alternative-toolkit.md
 theme:
   name: material
   language: en
